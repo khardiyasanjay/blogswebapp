@@ -1,0 +1,25 @@
+
+.storyContainer{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#authorName{
+    color: rgb(58, 58, 60);
+    text-decoration: wavy;
+    font-style: normal;
+    padding-left: 2px;
+}
+#storyHeading{
+    padding-bottom: 50px;
+}
+#storyImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 50px;
+}
+#storyContent{
+    font-size: x-large;
+    color: rgb(56, 55, 56);
+}

@@ -1,0 +1,107 @@
+/* stay curious template */
+
+.topheader{
+    background-color: rgb(224, 224, 73);
+    margin-top: 60px;
+}
+#bighead{
+    font-size: 500%;
+    margin-left: 10%;
+    margin-bottom: 0;
+}
+#medhead{
+    font-size: 130%;
+    margin-left: 10%;
+}
+#getstarted{
+    font-size: large;
+    text-decoration: wavy;
+    margin-left: 10%;
+    border: 2px solid black;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+/* dicover links and trending topics */
+
+.rowH{
+    margin-top: 0px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+.columnH{
+    float: left;
+    padding: 10px;
+    /* height: 3000px; */
+}
+
+/* left side coloumn */
+.leftH{
+    width: 25%;
+    /* background-color: #aaa; */
+}
+#lheading{
+    color: rgb(48, 48, 60);
+    font-size: medium;
+}
+.vermenu{
+    font-size: large;
+    /* border: 2px solid gray; */
+    font-style: italic;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+#vermenulinks{
+    /* background-color: #eee; */
+    color: black;
+    padding: 5px;
+    border: 2px slategrey solid;
+    margin-top: 5px;
+    margin-left: 2px;
+    /* display: block; */
+    display: inline-flex;
+    text-decoration:wavy;
+}
+#vermenulinks:hover{
+    background-color: #bbb;
+}
+/* #vermenulinks:active{
+    background-color: yellow;
+} */
+
+/* right side coloumn */
+.rightH{
+    width: 75%;
+    background-color: #bbb;
+}
+#rheading{
+    color: rgb(44, 44, 62);
+}
+.TrenRowH{
+    text-decoration: none;
+    margin-left: 5%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+.TrenColH{
+    float: left;
+}
+.TrenLeftH{
+    width: 75%;
+}
+.TrenRightH{
+    width: 25%;
+}
+#openStoryH{
+    text-decoration: none;
+}
+#authorNameH{
+    color: rgb(40, 37, 37);
+}
+#headingH{
+    color: black;
+    font-size: x-large;
+}

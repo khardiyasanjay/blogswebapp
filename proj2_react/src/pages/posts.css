@@ -1,0 +1,68 @@
+
+
+/* stories */
+
+
+.rowP{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 25%;
+    margin-bottom: 15%;
+}
+.colP{
+    float: left;
+}
+
+/* left side */
+.leftP{
+    width: 75%;
+}
+
+#authornameP{
+    color: rgb(59, 59, 58);
+    text-decoration: solid;
+}
+#headingP{
+    color: black;
+    font-size: x-large;
+}
+
+
+#openstoryP{
+    text-decoration: none;
+    background-color: rgb(202, 241, 202);
+    padding: 10px;
+    border-radius: 5px;
+}
+#openstoryP:link {
+    color: green;
+}
+  
+  /* visited link */
+#openstoryP:visited {
+    color: green;
+}
+  
+  /* mouse over link */
+#openstoryP:hover {
+    background-color: antiquewhite;
+    color: red;
+}
+  
+  /* selected link */
+#openstoryP:active {
+    color: yellow;
+}
+
+
+/* right side */
+.rightP{
+    width: 25%;
+}
+#image{
+    height: 150px;
+    width: auto;
+}
+#storydate{
+    font-size: medium;
+}

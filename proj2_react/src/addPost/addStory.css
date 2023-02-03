@@ -1,0 +1,32 @@
+
+
+.outerdiv{
+    margin: auto;
+    width: 70%;
+    border: 3px solid green;
+    margin-top: 1em;
+    padding: 5px;
+}
+#storypageheading{
+    text-align: center;
+    margin-top: 0;
+}
+.storyform{
+    text-align: center;
+}
+#username{
+    font-size: large;
+    margin: 10px;
+}
+#storyheading{
+    font-size: x-large;
+    margin: 10px;
+}
+
+#storyimage{
+    margin: 10px;
+}
+#storycontent{
+    margin: 10px;
+    
+}

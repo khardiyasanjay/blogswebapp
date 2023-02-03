@@ -1,0 +1,43 @@
+.navul{
+    position: fixed;
+    top: 0;
+    width: 98.95%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: xx-large;
+    
+    background-color: #333;
+    /* border: 1px solid #e7e7e7;
+    background-color: #f3f3f3; */
+}
+li{
+    float: left;
+}
+#navlink{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* #loginlink{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+} */
+li:hover {
+    background-color: #111;
+}
+/* .active {
+    background-color: #04AA6D;
+} */
+#rightLogin{
+    float: right;
+    padding-right: 2%;
+}
+
+
